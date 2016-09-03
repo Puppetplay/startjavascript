@@ -1,0 +1,5 @@
+.idea/
+.barbelrc
+chapter1/outdate-compiled.js
+chapter1/outdate-compiled.js.map
+node_modules/
